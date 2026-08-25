@@ -208,11 +208,6 @@ Feel free to check the [issues page](https://github.com/TheTanha/rice-variety-cl
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-
----
 
 ## 👨‍💻 Author
 
