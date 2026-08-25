@@ -10,15 +10,6 @@
 
 A comprehensive deep learning project that implements a lightweight CNN to classify **5 varieties of rice** using both **TensorFlow/Keras** and **PyTorch** side‑by‑side.
 
-This notebook compares the two frameworks on:
-- ✅ Test Accuracy  
-- ✅ Training Time  
-- ✅ Model Size  
-- ✅ Per‑class Performance  
-- ✅ Confusion Matrices  
-- ✅ Training Curves  
-
----
 
 ## 🗂️ Dataset
 
