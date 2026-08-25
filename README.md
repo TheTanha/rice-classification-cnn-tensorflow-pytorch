@@ -1,4 +1,3 @@
-```markdown
 # 🍚 Rice Variety Classification – TensorFlow vs PyTorch
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TheTanha/rice-variety-classification/blob/main/Rice_Classification_TF_vs_PyTorch.ipynb)
